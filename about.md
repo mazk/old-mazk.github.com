@@ -15,4 +15,4 @@ Thanks:
 
 Contact me:
 
-* [Email:mazkllmm(at, you know)gmail.com](#)
+* [Email:mazkllmm#gmail.com](#)
