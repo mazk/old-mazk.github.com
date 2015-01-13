@@ -8,17 +8,17 @@ highlighter:         pygments
 permalink:           pretty
 
 # Setup
-title:               gansteed
-tagline:             'my notes and blogs'
-description:         '你的眼睛能看多远'
+title:               Mazk
+tagline:             'my corner'
+description:         '独自角落静书生活'
 url:                 /
 baseurl:             /
 paginate:            8
 
 # About/contact
 author:
-  name:              gansteed
-  disqus:            gansteed
+  name:              mazk
+  disqus:            mazk
 
 # Custom vars
 saying:              'Stand on the shoulders of giants, observing details of the world.'

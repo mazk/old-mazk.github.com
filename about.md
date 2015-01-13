@@ -5,7 +5,7 @@ title: About
 
 About me:
 
-A Software-Engineering Student in Jiangxi University of Finance and Econmics.
+A student.
 
 Thanks:
 
@@ -15,4 +15,4 @@ Thanks:
 
 Contact me:
 
-* [Email:gansteed(at, you know)gmail.com](#)
+* [Email:mazkllmm(at, you know)gmail.com](#)
