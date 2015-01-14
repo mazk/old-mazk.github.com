@@ -4,7 +4,6 @@ title:  Hello World
 tags:  [Life]
 ---
 
-#Hello World
 
 折腾了许久终于在Github上建立了独立博客，虽然很简陋但是感觉就像有个家一样。
 
