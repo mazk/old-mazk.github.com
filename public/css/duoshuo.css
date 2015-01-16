@@ -63,17 +63,19 @@ border-top: 0px !important;}
 #ds-thread #ds-reset .ds-paginator a.ds-current, #ds-thread #ds-reset a { color: #999 !important;}
 #ds-notify { z-index: 10001 !important;}
 #ds-thread #ds-reset .ds-paginator { text-align:center !important;}
-.ds-comments-info { padding: 0px 0 !important;}
+.ds-comments-info { padding: none 0 !important;}
 
 #ds-thread #ds-reset .ds-login-buttons {
-    border-top: 0px !important;
+    border-top: none !important;
 }
 #ds-thread #ds-reset .ds-border-highlight {
-    border-bottom: 0px !important;
+    border-bottom: none !important;
 }
 
 #ds-thread #ds-reset .ds-toolbar {
-    border-top:0px !important;
+    border-top:none !important;
 }
 
-#ds-thread #ds-reset .ds-paginator { display: none  !important;}
+#ds-thread #ds-reset .ds-comments {
+border-bottom: none;
+}
