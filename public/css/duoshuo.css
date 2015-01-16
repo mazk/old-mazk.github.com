@@ -35,11 +35,10 @@ border-top: 0px !important;}
 
 
 
-#ds-thread #ds-reset .ds-post-button {font-weight: normal !important; font-size: 12px !important; text-shadow: none !important; border: 0 !important; height: 23px !important; line-height: 23px !important; width: 52px !important; background: #aa759f !important; color: #FFF !important;}
+#ds-thread #ds-reset .ds-post-button { text-shadow: none !important; border: 0 !important; background: #aa759f !important; color: #FFF !important;}
 #ds-thread #ds-reset button:hover, #ds-thread #ds-reset button:active { background: #ffc0cb !important; color: #FFF !important; box-shadow: none !important;}
 #ds-thread #ds-reset button:active { background: #ffc0cb !important;}
-#ds-thread #ds-reset .ds-textarea-wrapper textarea:focus { color: #666 !important;}
-#ds-thread #ds-reset .ds-comment-body p { color: #666 !important;}
+
 #ds-thread #ds-reset .ds-textarea-wrapper, #ds-thread #ds-reset .ds-post-options, #ds-thread #ds-reset .ds-post-button { border-radius: 0 !important;}
 
 .ds-comments-info { display: none !important;}
