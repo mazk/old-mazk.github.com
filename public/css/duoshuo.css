@@ -48,7 +48,7 @@ border-top: 0px !important;}
 #ds-smilies-tooltip .ds-smilies-container { margin-left: 0 !important; height: auto !important;}
 #ds-thread #ds-reset .ds-textarea-wrapper { background: none !important;}
 #ds-reset .ds-gradient-bg { background: #FBFBFB !important;}
-#ds-thread #ds-reset .ds-post-button { position: absolute !important; left: 0 !important; top: 45px !important; font-weight: normal !important; font-size: 12px !important; text-shadow: none !important; border: 0 !important; height: 23px !important; line-height: 23px !important; width: 52px !important; background: #aa759f !important; color: #FFF !important;}
+#ds-thread #ds-reset .ds-post-button { position: absolute !important; left: 0 !important; top: 40px !important; font-weight: normal !important; font-size: 12px !important; text-shadow: none !important; border: 0 !important; height: 23px !important; line-height: 23px !important; width: 52px !important; background: #aa759f !important; color: #FFF !important;}
 #ds-thread #ds-reset button:hover, #ds-thread #ds-reset button:active { background: #ffc0cb !important; color: #FFF !important; box-shadow: none !important;}
 #ds-thread #ds-reset button:active { background: #ffc0cb !important;}
 #ds-thread #ds-reset .ds-textarea-wrapper textarea:focus { color: #666 !important;}
@@ -63,7 +63,7 @@ border-top: 0px !important;}
 #ds-thread #ds-reset .ds-paginator a.ds-current, #ds-thread #ds-reset a { color: #999 !important;}
 #ds-notify { z-index: 10001 !important;}
 #ds-thread #ds-reset .ds-paginator { text-align:center !important;}
-.ds-comments-info { padding: -10px 0 !important;}
+.ds-comments-info { position: absolute !important; left: 0 !important; top: 0 !important; padding: 0 0 !important;}
 
 #ds-thread #ds-reset .ds-login-buttons {
     border-top: none !important;
