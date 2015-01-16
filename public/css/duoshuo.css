@@ -37,7 +37,7 @@ border-top: 0px !important;}
 #ds-thread #ds-reset ul.ds-comments-tabs .ds-highlight, #ds-notify #ds-reset ul.ds-notify-unread li a, #ds-wrapper #ds-reset .ds-unread-list li a, #ds-wrapper #ds-reset .ds-unread-list li a:hover { color: #2CB4BF !important;}
 #ds-wrapper #ds-reset .ds-unread-list li a:hover, #ds-thread #ds-reset .ds-login-buttons .ds-more-services:hover { text-decoration: underline;}
 #ds-thread #ds-reset li.ds-post { border-top: 1px dotted #DDD !important;}
-#ds-thread #ds-reset .ds-comments, #ds-thread #ds-reset .ds-paginator { display:none !important;border-bottom: 0px dotted #DDD !important;}
+#ds-thread #ds-reset .ds-comments, #ds-thread #ds-reset .ds-paginator { border-bottom: 1px dotted #DDD !important;}
 #ds-reset .ds-avatar img { box-shadow: none !important;}
 #ds-thread #ds-reset ul.ds-children { margin-left: 50px !important;}
 #ds-reset .ds-highlight, #ds-thread #ds-reset .ds-login-buttons .ds-more-services, #ds-thread #ds-reset .ds-login-buttons .ds-more-services:hover { color: #999 !important;}
@@ -75,3 +75,5 @@ border-top: 0px !important;}
 #ds-thread #ds-reset .ds-toolbar {
     border-top:0px !important;
 }
+
+#ds-thread #ds-reset .ds-paginator { display: none  !important;}
