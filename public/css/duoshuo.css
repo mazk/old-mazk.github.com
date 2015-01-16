@@ -24,3 +24,13 @@
   margin-top: 0;
   width: 100%;
 }
+
+#ds-reset .ds-gradient-bg{background:none !important;}
+
+#ds-thread #ds-reset .ds-post-button{background:none !important;color:#000000 !important;}
+
+#ds-thread{ border-radius: 0px;border:none;}
+
+#ds-thread #ds-reset li.ds-tab a.ds-current{background:none;border:none;}
+
+#ds-thread #ds-reset .ds-highlight{color: #aa759f !important;}
