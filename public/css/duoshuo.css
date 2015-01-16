@@ -25,6 +25,9 @@
   width: 100%;
 }
 
+#ds-wrapper #ds-reset  .ds-post-likes  {
+display: none !important;}
+
 #ds-thread #ds-reset .ds-sort, #ds-thread #ds-reset #ds-bubble, #ds-thread #ds-reset .ds-powered-by, #ds-reset .ds-logo, #ds-wrapper #ds-reset .ds-dialog-footer, .ds-post-likes, .ds-post-report, .ds-post-repost, #ds-smilies-tooltip ul.ds-smilies-tabs, .ds-comments-tabs { display: none !important;}
 #ds-thread #ds-reset li.ds-tab a { background: none !important; border: 0 !important; font-size: 14px !important; color: #999 !important;}
 #ds-thread #ds-reset a.ds-comment-context, .page-break { color: #999 !important;}
@@ -57,4 +60,4 @@
 #ds-thread #ds-reset .ds-paginator a.ds-current, #ds-thread #ds-reset a { color: #999 !important;}
 #ds-notify { z-index: 10001 !important;}
 #ds-thread #ds-reset .ds-paginator { text-align:center !important;}
-.ds-comments-info { padding: 30px 0 !important;}
+.ds-comments-info { padding: 0px 0 !important;}
