@@ -63,3 +63,14 @@ display: none !important;}
 #ds-notify { z-index: 10001 !important;}
 #ds-thread #ds-reset .ds-paginator { text-align:center !important;}
 .ds-comments-info { padding: 0px 0 !important;}
+
+#ds-thread #ds-reset .ds-login-buttons {
+    border-top: 0 !important;
+}
+#ds-thread #ds-reset .ds-border-highlight {
+    border-bottom: 0 !important;
+}
+
+#ds-thread #ds-reset .ds-toolbar {
+    border-top:0 !important;
+}
