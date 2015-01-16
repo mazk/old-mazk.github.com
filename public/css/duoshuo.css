@@ -28,7 +28,8 @@
 #ds-wrapper #ds-reset  .ds-post-likes  {
 display: none !important;}
 /*喜欢按钮*/
-#ds-reset a.ds-like-thread-button {display: none !important;}
+#ds-reset a.ds-like-thread-button {display: none !important;
+border-top: 0px !important;}
 
 #ds-thread #ds-reset .ds-sort, #ds-thread #ds-reset #ds-bubble, #ds-thread #ds-reset .ds-powered-by, #ds-reset .ds-logo, #ds-wrapper #ds-reset .ds-dialog-footer, .ds-post-likes, .ds-post-report, .ds-post-repost, #ds-smilies-tooltip ul.ds-smilies-tabs, .ds-comments-tabs { display: none !important;}
 #ds-thread #ds-reset li.ds-tab a { background: none !important; border: 0 !important; font-size: 14px !important; color: #999 !important;}
@@ -36,7 +37,7 @@ display: none !important;}
 #ds-thread #ds-reset ul.ds-comments-tabs .ds-highlight, #ds-notify #ds-reset ul.ds-notify-unread li a, #ds-wrapper #ds-reset .ds-unread-list li a, #ds-wrapper #ds-reset .ds-unread-list li a:hover { color: #2CB4BF !important;}
 #ds-wrapper #ds-reset .ds-unread-list li a:hover, #ds-thread #ds-reset .ds-login-buttons .ds-more-services:hover { text-decoration: underline;}
 #ds-thread #ds-reset li.ds-post { border-top: 1px dotted #DDD !important;}
-#ds-thread #ds-reset .ds-comments, #ds-thread #ds-reset .ds-paginator { border-bottom: 1px dotted #DDD !important;}
+#ds-thread #ds-reset .ds-comments, #ds-thread #ds-reset .ds-paginator { border-bottom: 0px dotted #DDD !important;}
 #ds-reset .ds-avatar img { box-shadow: none !important;}
 #ds-thread #ds-reset ul.ds-children { margin-left: 50px !important;}
 #ds-reset .ds-highlight, #ds-thread #ds-reset .ds-login-buttons .ds-more-services, #ds-thread #ds-reset .ds-login-buttons .ds-more-services:hover { color: #999 !important;}
