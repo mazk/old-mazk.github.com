@@ -73,7 +73,7 @@ border-top: 0px !important;}
 }
 
 #ds-thread #ds-reset .ds-toolbar {
-    border-top:none !important;
+    display:none !important;
 }
 
 #ds-thread #ds-reset .ds-comments {
