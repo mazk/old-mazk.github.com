@@ -18,7 +18,12 @@
   display: none;
 }
 
-
+#ds-thread {
+  clear: none !important;
+  float: left;
+  margin-top: 0;
+  width: 100%;
+}
 
 #ds-wrapper #ds-reset  .ds-post-likes  {
 display: none !important;}
