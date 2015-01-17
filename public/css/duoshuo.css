@@ -53,3 +53,6 @@ border-top: 0px !important;}
 #ds-thread #ds-reset .ds-toolbar {
     border-bottom:none !important;
 }
+
+#ds-post #ds-reset .ds-post-placeholder { display: none !important; }
+#ds-post #ds-reset li.ds-post { border-top: none !important; }
